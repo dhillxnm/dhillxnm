@@ -6,6 +6,9 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhillxnm&label=Profile%20views&color=0e75b6&style=flat" alt="dhillxnm" /> </p>
+ An IT student in   MITT, Winnipeg, Canada.
+
+I am a passionate developer focusing on creating beautiful and functional websites. I also enjoy learning how to make incredible interactive applications.
 
 - 🌱 I’m currently learning **Web Development, Javascript, Tools and Automation, Third-Parties API, React, Algorithms and Data Structure**
 
